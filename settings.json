@@ -1,0 +1,18 @@
+{
+  "SettingsVersion": 1.2,
+  "SimMode": "Car",
+  "Vehicles": {
+    "Car1": {
+      "VehicleType": "PhysXCar",
+      "AutoCreate": true,
+      "Sensors": {
+        "DepthCamera": {
+          "SensorType": 4,
+          "Enabled": true,
+          "ImageType": 3,
+          "X": 0, "Y": 0, "Z": 0
+        }
+      }
+    }
+  }
+}
