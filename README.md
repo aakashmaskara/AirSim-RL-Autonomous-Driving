@@ -16,7 +16,7 @@ Careful reward design and evaluation help balance these trade-offs.
 ## Business Understanding
 
 For AV research, simulation enables fast, safe iteration on sensing and control.  
-We use AirSim’s Car mode to test how sensor choices (depth + velocity) and reward shaping influence driving behavior, aiming to reduce collisions and improve stable progress—insights that transfer to future sim-to-real studies.
+We use AirSim’s Car mode to test how sensor choices (depth + velocity) and reward shaping influence driving behavior, aiming to reduce collisions and improve stable progress, insights that transfer to future sim-to-real studies.
 
 ## Business Objectives
 
